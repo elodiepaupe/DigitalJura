@@ -35,4 +35,4 @@ Sur le projet FoNDUE: [https://www.unige.ch/lettres/humanites-numeriques/fr/rech
 ## Citer ce dépôt 
 Simon Gabay et Élodie Paupe, _Digital Jura_, journée d'étude le 17 décembre 2021, Porrentruy. 
 
-![w:200](images/cc-by.png)
+![w:100](images/cc-by.png)
