@@ -28,4 +28,11 @@ Le repas de midi sera pris au Restaurant des Deux-Clefs (rue des Malvoisins 7, P
 
 ## À faire avant la journée du 17 décembre
 * [Créer un compte sur Transkribus](https://readcoop.eu/transkribus/?sc=Transkribus) et télécharger le logiciel.
-* 
+
+## Bibliographie
+Sur le projet FoNDUE: [https://www.unige.ch/lettres/humanites-numeriques/fr/recherche/projets-de-la-chaire/fondue/](https://www.unige.ch/lettres/humanites-numeriques/fr/recherche/projets-de-la-chaire/fondue/)
+
+## Citer ce dépôt 
+Simon Gabay et Élodie Paupe, _Digital Jura_, journée d'étude le 17 décembre 2021, Porrentruy. 
+
+![w:200](images/cc-by.png)
