@@ -2,6 +2,8 @@
 Journée d'étude HTR du 17 décembre 2021
 Organisée par l'Université de Neuchâtel en partenariat avec les archives de l'ancien Évêché de Bâle et l'Université de Genève.
 
+![w:800](images/affiche.png)
+
 ## Programme de la journée 
 [Programme en ligne](https://www.unine.ch/dh/home/digital-jura.html)
 
