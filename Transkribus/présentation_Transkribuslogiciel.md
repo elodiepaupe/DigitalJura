@@ -3,8 +3,7 @@ marp: true
 theme: default
 paginate: true
 _paginate: false
-header: '![width:100px](/Users/elodiepaupe/SynologyDrive/Drive/Coursédition2020/malit_génétique_2021/images/logo_unine.jpg)'
-footer: '13 décembre 2021'
+footer: '17 décembre 2021'
 ---
 Université de Neuchâtel
 Digital Jura
