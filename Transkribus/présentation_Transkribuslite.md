@@ -28,7 +28,7 @@ elodie.paupe@unine.ch
 ---
 ## Deux interfaces d'utilisation
 
-![w:500](images/interface_accueil.png) ![w:500](images/interface_accueil.png)
+![w:500](images/interface_accueil.png) ![w:500](images/log_interface_accueil.png)
 
 ---
 ## Entrer dans une collection
