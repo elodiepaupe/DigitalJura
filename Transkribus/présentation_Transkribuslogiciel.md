@@ -27,25 +27,25 @@ elodie.paupe@unine.ch
 
 ---
 ## Deux interfaces d'utilisation
-![w:550](images/interface_accueil.PNG) ![w:550](images/log_interface_accueil.PNG)
+![w:550](images/interface_accueil.png) ![w:550](images/log_interface_accueil.png)
 
 ---
 ## Entrer dans une collection
-![w:900](images/log_interface_collection.PNG)
+![w:900](images/log_interface_collection.png)
 
 ---
 ## Entrer dans un document 
-![w:900](images/log_interface_documents.PNG)
+![w:900](images/log_interface_documents.png)
 
 ---
 ## Reconnaissance de texte
-![w:900](images/log_document_segmenté.PNG)
+![w:900](images/log_document_segmenté.png)
 
 ---
-![w:900](images/log_HTR.PNG)
+![w:900](images/log_HTR.png)
 
 ---
-![w:900](images/log_jobstart.PNG)
+![w:900](images/log_jobstart.png)
 
 ---
 L'efficacité d'un modèle dépend 
@@ -58,16 +58,16 @@ L'efficacité d'un modèle dépend
 
 ---
 ### Modèles publics
-![w:600](images/modeles.PNG)
+![w:600](images/modeles.png)
 
 [Catalogue des modèles publics](https://readcoop.eu/transkribus/public-models/)
 
 ---
-![w:900](images/log_HTR_correction.PNG)
+![w:900](images/log_HTR_correction.png)
 
 ---
 ## Segmenter une page 
-![w:900](images/log_segmentation.PNG)
+![w:900](images/log_segmentation.png)
 
 ---
 * La segmentation permet de relier l'image à la transcription. 
@@ -75,7 +75,7 @@ L'efficacité d'un modèle dépend
 * Les coordonnées de chaque segment identifié sont stockés dans des fichiers PAGE qui peuvent être exportés. 
 
 ---
-![w:900](images/log_layout_corriger.PNG)
+![w:900](images/log_layout_corriger.png)
 
 ---
 * L'ajustement de la segmentation dépend de l'objectif poursuivi: une segmentation plus fine augmente la précision.  
@@ -83,29 +83,29 @@ L'efficacité d'un modèle dépend
 * L'ajustement de l'ordre des segments et des régions de texte n'a pas d'effet sur sur l'entraînement d'un modèle HTR. 
 
 ---
-![w:900](images/log_ajouter_ligne.PNG)
+![w:900](images/log_ajouter_ligne.png)
 * +L 
 * +BL pour la baseline
 
 ---
-![w:900](images/log_corriger_ligne.PNG)
+![w:900](images/log_corriger_ligne.png)
 
 ---
-![w:900](images/log_supprimer_ligne.PNG)
+![w:900](images/log_supprimer_ligne.png)
 
 ---
 Une fois la page segmentée, lancer un moteur HTR comme tout à l'heure. 
 
 ---
 ## Charger une page
-![w:900](images/log_ajouter_document.PNG)
+![w:900](images/log_ajouter_document.png)
 
 ---
-![w:900](images/log_ajouter_document2.PNG)
+![w:900](images/log_ajouter_document2.png)
 
 ---
 ## Entraîner un modèle
-![w:900](images/log_training.PNG)
+![w:900](images/log_training.png)
 
 ---
 * La sélection des données de validations peut se faire manuellement ou aléatoirement sur un pourcentage du corpus. 
@@ -136,11 +136,11 @@ On considère qu'un modèle est exploitable quand le taux d'erreur sur caractèr
 
 ---
 ## Le modèle AAEBv3
-![w:500](images/log_AAEB_PyLaia.PNG)
+![w:500](images/log_AAEB_PyLaia.png)
 
 ---
 ### Résultat sur un document tiers avec ou sans _langage model_
-![w:500](images/log_AAEB3tiersLM.PNG) ![w:500](images/log_AAEB3tiersnone.PNG)
+![w:500](images/log_AAEB3tiersLM.png) ![w:500](images/log_AAEB3tiersnone.png)
 
 ---
 ## Transcription avancée avec Transkribus
@@ -162,6 +162,6 @@ On considère qu'un modèle est exploitable quand le taux d'erreur sur caractèr
 
 ---
 ## Télécharger les transcriptions
-![w:900](images/log_download.PNG)
+![w:900](images/log_download.png)
 
 ---

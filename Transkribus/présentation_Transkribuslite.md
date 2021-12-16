@@ -28,31 +28,31 @@ elodie.paupe@unine.ch
 ---
 ## Deux interfaces d'utilisation
 
-![w:500](images/interface_accueil.PNG) ![w:500](images/interface_accueil.PNG)
+![w:500](images/interface_accueil.png) ![w:500](images/interface_accueil.png)
 
 ---
 ## Entrer dans une collection
-![w:900](images/interface_collection.PNG)
+![w:900](images/interface_collection.png)
 
 ---
 ## Entrer dans un document 
-![w:900](images/interface_documents.PNG)
+![w:900](images/interface_documents.png)
 
 ---
 ## Reconnaissance de texte
-![w:900](images/document_segmenté.PNG)
+![w:900](images/document_segmenté.png)
 
 ---
-![w:900](images/document_segmenté2.PNG)
+![w:900](images/document_segmenté2.png)
 
 ---
-![w:900](images/HTR.PNG)
+![w:900](images/HTR.png)
 
 ---
-![w:900](images/HTR2.PNG)
+![w:900](images/HTR2.png)
 
 ---
-![w:900](images/jobstart.PNG)
+![w:900](images/jobstart.png)
 
 ---
 L'efficacité d'un modèle dépend 
@@ -65,16 +65,16 @@ L'efficacité d'un modèle dépend
 
 ---
 ### Modèles publics
-![w:600](images/modeles.PNG)
+![w:600](images/modeles.png)
 
 [Catalogue des modèles publics](https://readcoop.eu/transkribus/public-models/)
 
 ---
-![w:900](images/HTR_correction.PNG)
+![w:900](images/HTR_correction.png)
 
 ---
 ## Segmenter une page 
-![w:900](images/segmentation.PNG)
+![w:900](images/segmentation.png)
 
 ---
 * La segmentation permet de relier l'image à la transcription. 
@@ -82,7 +82,7 @@ L'efficacité d'un modèle dépend
 * Les coordonnées de chaque segment identifié sont stockés dans des fichiers PAGE qui peuvent être exportés. 
 
 ---
-![w:900](images/layout_corriger.PNG)
+![w:900](images/layout_corriger.png)
 
 ---
 * L'ajustement de la segmentation dépend de l'objectif poursuivi: une segmentation plus fine augmente la précision.  
@@ -90,33 +90,33 @@ L'efficacité d'un modèle dépend
 * L'ajustement de l'ordre des segments et des régions de texte n'a pas d'effet sur sur l'entraînement d'un modèle HTR. 
 
 ---
-![w:900](images/ajouter_ligne.PNG)
+![w:900](images/ajouter_ligne.png)
 
 ---
-![w:900](images/corriger_ligne.PNG)
+![w:900](images/corriger_ligne.png)
 
 ---
-![w:900](images/supprimer_ligne.PNG)
+![w:900](images/supprimer_ligne.png)
 
 ---
-![w:900](images/supprimer_ligne2.PNG)
+![w:900](images/supprimer_ligne2.png)
 
 ---
-![w:900](images/HTR_alternatif.PNG)
+![w:900](images/HTR_alternatif.png)
 
 ---
 ## Charger une page
-![w:900](images/ajouter_document.PNG)
+![w:900](images/ajouter_document.png)
 
 ---
-![w:900](images/ajouter_document2.PNG)
+![w:900](images/ajouter_document2.png)
 
 ---
 ## Entraîner un modèle
-![w:900](images/training.PNG)
+![w:900](images/training.png)
 
 ---
-![w:900](images/training1.PNG)
+![w:900](images/training1.png)
 
 ---
 * La sélection des données de validations peut se faire manuellement ou aléatoirement sur un pourcentage du corpus. 
@@ -124,10 +124,10 @@ L'efficacité d'un modèle dépend
 * Plus votre corpus de validation est large, plus l'entraînement prend du temps. 
 
 ---
-![w:900](images/training2.PNG)
+![w:900](images/training2.png)
 
 ---
-![w:900](images/training3.PNG)
+![w:900](images/training3.png)
 
 ---
 * Pour entraîner un modèle manuscrit, il faut compter entre 5'000 et 15'000 mots de transcriptions accompagnées de leurs numérisations. 
@@ -153,11 +153,11 @@ On considère qu'un modèle est exploitable quand le taux d'erreur sur caractèr
 
 ---
 ## Le modèle AAEB3
-![w:500](images/log_AAEB_PyLaia.PNG)
+![w:500](images/log_AAEB_PyLaia.png)
 
 ---
 ### Résultat sur un document tiers
-![w:500](images/log_AAEB3tiersLM.PNG) ![w:500](images/log_AAEB3tiersnone.PNG)
+![w:500](images/log_AAEB3tiersLM.png) ![w:500](images/log_AAEB3tiersnone.png)
 
 ---
 ## Transcription avancée avec Transkribus
@@ -179,6 +179,6 @@ On considère qu'un modèle est exploitable quand le taux d'erreur sur caractèr
 
 ---
 ## Télécharger les transcriptions
-![w:900](images/download.PNG)
+![w:900](images/download.png)
 
 ---
