@@ -10,13 +10,13 @@ Digital Jura
 
 # Transkribus (version logiciel)
 
-Élodie Paupe, assistante doctorante et chargée d'enseignement
+Élodie Paupe
 elodie.paupe@unine.ch
 
 ---
 
 ## Qu'est-ce que Transkribus ? 
-* Un projet développé à partir de 2016 dans le cadre d'un projet européen Horizon 2020 "READ" et dirigé par l'Univesrité d'Innsbruck 
+* Un projet développé à partir de 2016 dans le cadre d'un projet européen Horizon 2020 "READ" et dirigé par l'Université d'Innsbruck 
 * Depuis 2019, READ-COOP SCE
 * Une solution de transcription et d'OCR/HTR basée sur une interface logiciel ou web liés à des serveurs externes. 
 * Il fait appel à l'intelligence artificiel pour transcrire des documents grâce à des modèles entraînés à partir de transcription manuelles.
@@ -82,7 +82,7 @@ L'efficacité d'un modèle dépend
 * L'ajustement de l'ordre des segments et des régions de texte n'a pas d'effet sur sur l'entraînement d'un modèle HTR. 
 
 ---
-![w:900](images/log_ajouter_ligne.png)
+![w:800](images/log_ajouter_ligne.png)
 * +L 
 * +BL pour la baseline
 
@@ -97,7 +97,9 @@ Une fois la page segmentée, lancer un moteur HTR comme tout à l'heure.
 
 ---
 ## Charger une page
-![w:900](images/log_ajouter_document.png)
+![w:800](images/log_ajouter_document.png)
+
+[B_168_15-10_3_03.jpeg](B_168_15-10_3_03.jpeg)
 
 ---
 ![w:900](images/log_ajouter_document2.png)

@@ -10,13 +10,13 @@ Digital Jura
 
 # Transkribus (version web)
 
-Élodie Paupe, assistante doctorante et chargée d'enseignement
+Élodie Paupe
 elodie.paupe@unine.ch
 
 ---
 
 ## Qu'est-ce que Transkribus ? 
-* Un projet développé à partir de 2016 dans le cadre d'un projet européen Horizon 2020 "READ" et dirigé par l'Univesrité d'Innsbruck 
+* Un projet développé à partir de 2016 dans le cadre d'un projet européen Horizon 2020 "READ" et dirigé par l'Université d'Innsbruck 
 * Depuis 2019, READ-COOP SCE
 * Une solution de transcription et d'OCR/HTR basée sur une interface logiciel ou web liés à des serveurs externes. 
 * Il fait appel à l'intelligence artificiel pour transcrire des documents grâce à des modèles entraînés à partir de transcription manuelles.
